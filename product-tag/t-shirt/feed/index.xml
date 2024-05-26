@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>T-shirt &#8211; Ecommerce Website</title>
+	<atom:link href="/product-tag/t-shirt/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 24 May 2024 17:15:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Hope</title>
+		<link>/product/hope/</link>
+					<comments>/product/hope/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 24 May 2024 06:44:41 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=111</guid>
+
+					<description><![CDATA[Elevate your young boy&#8217;s wardrobe with our Classic Blue Shirt. Made from soft, breathable cotton, this shirt ensures comfort all day long. The timeless blue color and tailored fit make it perfect for any occasion, from school to family gatherings. Featuring a classic collar and button-down front, this versatile piece can be dressed up or [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Elevate your young boy&#8217;s wardrobe with our Classic Blue Shirt. Made from soft, breathable cotton, this shirt ensures comfort all day long. The timeless blue color and tailored fit make it perfect for any occasion, from school to family gatherings. Featuring a classic collar and button-down front, this versatile piece can be dressed up or down with ease. Available in various sizes, this durable and stylish shirt is a must-have addition to your child&#8217;s closet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/hope/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>White T-shirt</title>
+		<link>/product/white-t-shirt/</link>
+					<comments>/product/white-t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 24 May 2024 06:42:31 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=105</guid>
+
+					<description><![CDATA[Elevate your young boy&#8217;s wardrobe with our Classic Blue Shirt. Made from soft, breathable cotton, this shirt ensures comfort all day long. The timeless blue color and tailored fit make it perfect for any occasion, from school to family gatherings. Featuring a classic collar and button-down front, this versatile piece can be dressed up or [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Elevate your young boy&#8217;s wardrobe with our Classic Blue Shirt. Made from soft, breathable cotton, this shirt ensures comfort all day long. The timeless blue color and tailored fit make it perfect for any occasion, from school to family gatherings. Featuring a classic collar and button-down front, this versatile piece can be dressed up or down with ease. Available in various sizes, this durable and stylish shirt is a must-have addition to your child&#8217;s closet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/white-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
